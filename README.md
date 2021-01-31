@@ -35,7 +35,7 @@ The system compress the file to optimize the total amount of lines.
 
 ### Example
 
-This is the GCODE made by the Solid Works software
+#### This is the GCODE made by the Solid Works software
 
 O0001  
 N1 G21  
@@ -57,7 +57,7 @@ N15 Y37.264 Z8.5 I0 J-3.
 N16 Y43.264 Z8.25 I0 J3.  
 N17 Y37.264 Z8. I0 J-3.  
 
-and this the converted output file
+##### and this the converted output file
 
 G21  
 G91 G28 X0 Y0 Z0  
