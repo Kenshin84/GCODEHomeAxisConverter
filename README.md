@@ -34,7 +34,7 @@ File tested with SOLID WORKS 2019 and CAM processor
 
 This is the GCODE made by the Solid Works software
 
-O0001
+O0001 \n
 N1 G21
 N2 (6MM CRB 2FL 19 LOC)
 N3 G91 G28 X0 Y0 Z0
