@@ -57,7 +57,7 @@ N15 Y37.264 Z8.5 I0 J-3.
 N16 Y43.264 Z8.25 I0 J3.  
 N17 Y37.264 Z8. I0 J-3.  
 
-##### and this the converted output file
+#### and this the converted output file
 
 G21  
 G91 G28 X0 Y0 Z0  
