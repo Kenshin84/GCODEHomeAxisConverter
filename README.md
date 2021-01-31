@@ -19,6 +19,7 @@ Select the file to modify the empty GCODES lines and the sofware will fill each 
 ### Installation
 
 Option 1: Debug the code with visual studio or similar
+Option 2: Download from mega.co.nz (https://mega.nz/file/8tYE3bQA#dZ5N7RuDcwM-qekJ7zt0MkNGZTFB0IWTuNjk7TuXXI0) 170 KB
 
 
 ### Language 
