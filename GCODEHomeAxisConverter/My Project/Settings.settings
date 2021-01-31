@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Forbidden" Type="System.String" Scope="User">
+      <Value Profile="(Default)">O</Value>
+    </Setting>
+    <Setting Name="OriginPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"\.."</Value>
+    </Setting>
+    <Setting Name="Special" Type="System.String" Scope="User">
+      <Value Profile="(Default)">X,Y,Z,I</Value>
+    </Setting>
+    <Setting Name="GCODES" Type="System.String" Scope="User">
+      <Value Profile="(Default)">G,M</Value>
+    </Setting>
+    <Setting Name="NLines" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Spaces" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="DotValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Dot (.)</Value>
+    </Setting>
+    <Setting Name="CommentId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">' " / \ ( , % $</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
