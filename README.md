@@ -18,9 +18,8 @@ Select the file to modify the empty GCODES lines and the sofware will fill each 
 
 ### Installation
 
-Option 1: Execute the file exe from GCODEHomeAxisConverter\GCODEHomeAxisConverter\bin\Debug 
+Option 1: Debug the code with visual studio or similar
 
-Option 2: Debug the code with visual studio or similar
 
 ### Language 
 
